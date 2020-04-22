@@ -1,1 +1,4 @@
-console.log ('prueba');
+
+function sumar (){
+    return a+b;
+}
